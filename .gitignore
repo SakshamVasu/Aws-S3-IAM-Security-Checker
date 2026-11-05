@@ -1,0 +1,13 @@
+# Python environment and caches
+.venv/
+__pycache__/
+
+# Scan output: contains account IDs, user names and security weaknesses
+aws_security_report.html
+aws_security_findings.json
+
+# Launcher's remembered dialog choices (profile, region, SSO details)
+launcher-settings.json
+
+# Node modules if the documentation build tools are installed locally
+documentation/tools/node_modules/
